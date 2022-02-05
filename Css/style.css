@@ -1,0 +1,51 @@
+/******************* Layout **********************/
+
+html,
+body {
+  background-color: rgb(189, 211, 221);
+  font-family: "Open Sans", sans-serif;
+}
+
+.navbar {
+  position: relative;
+  text-align: center;
+  
+  
+
+}
+a {
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ text-decoration: none;
+}
+a:hover{
+    color: rgb(223, 77, 228);
+   
+    font-size: 15px;
+}
+
+.madde {
+  display: inline-block;
+  margin-left: 75px;
+}
+
+h1 {
+  color: blueviolet;
+}
+
+
+
+.list {
+    margin-left: 40%;
+    
+}
+
+.resim {
+  width: 250px;
+  height: 250px;
+  display: block;
+  
+}
+.urunler {
+  text-align: center;
+  margin-left: 35px;
+}
